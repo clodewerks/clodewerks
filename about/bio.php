@@ -1,7 +1,0 @@
-		<div id="bio">
-			<img id="bioImg" src="/images/bio.jpg"/>
-			<p>Kyle Linneman is an electronic musician, web programmer, and trumpet performer.</p>
-			<p class='text'>Kyle has been creating music with computers since 2005. He studied Music Technolgy with Jeffrey Stolet at the University of Oregon, graduating as outstanding undergraduate in Music Technology in 2011. Kyle has worked on a variety of different projects, including sound for games, live processing of trumpet, and sound design.</p>		
-			<p class='text'>Kyle's knowledge of technology expands beyond the musical world. As a web developer, Kyle uses his creative problem solving and design skills to create unique web creations. He is currently employed by NAVEX Global, where he works as a web developer. In his position, he works as part of a team in maintaining web intake sites for thousands of clients across multiple platforms.</p>
-			<p class='text'> Since 1998, Kyle has been studying and performing on the trumpet. He has studied with a wide variety of teachers, most notably Amanda Bekeny from the University of Ashland and Brian McWhorter at the University of Oregon. He has used the trumpet in a variety of different settings, including performances with ethnic groups like the Cleveland Donauschwabische Blaskapelle and the UO Cuban Ensemble, more traditional groups like the Cleveland Youth Wind Symphony and UO Symphonic band, and improvisatory settings with electronics and artists. He currently performs with Waffle Taco, Encore Brass, and the Montavilla Brass Quintet.</p>
-		</div>
