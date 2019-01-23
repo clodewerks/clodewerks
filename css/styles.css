@@ -38,6 +38,12 @@ cursor:pointer;
   cursor:pointer;
   text-align:center;
 }
+.clear{
+  clear:both;
+}
+.norm{
+  font-weight:normal;
+}
 /*Structure*/
 .jumbotron{
   background:url(../images/bg.jpg)no-repeat center center #000;
@@ -97,6 +103,8 @@ border-radius:10px;
 .producer{
   background:rgb(108 ,117,113 );
 }
+
+
 
 #code{
 background:url(../images/bg1.png) repeat top left #ccc;
