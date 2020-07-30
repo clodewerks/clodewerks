@@ -30,6 +30,7 @@ a{
 }
 ul{
   list-style:none;
+  padding-inline-start: 0px;
 }
 p{
   font:17px/26px 'helvetica', 'arial', sans-serif;
