@@ -118,4 +118,37 @@ border-radius:10px;
   height: 100%;
   left: 0; top: 0;
 }
+.album-container{
+  width:200px;
+  height:200px;
+  background-color: #333;
+  display:inline-block;
+  margin:20px;
+  position: relative;
+}
 
+.album-container:hover{
+  opacity: 0.75;
+}
+
+.album-label{
+  position: absolute;
+  bottom:0px;
+  background-color: #333;
+  color:white;
+  font-weight: bold;
+  padding:5px;
+  opacity: 0.75;
+}
+
+#SelectedClodewerks{
+  background-image: url(../images/SelectedClodewerks.jpg);
+}
+
+#Clodewerks2{
+  background-image: url(../images/Clodewerks2.jpg);
+}
+
+#Fishwerks{
+  background-image: url(../images/Fishwerks.jpg);
+}
