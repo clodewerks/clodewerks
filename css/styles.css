@@ -165,3 +165,8 @@ border-radius:10px;
 #Santawerks{
   background-image: url(../images/santawerks.png);
 }
+
+#COVIDwerks{
+  background-image: url(../images/covidwerks.png);
+  background-size: cover;
+}
