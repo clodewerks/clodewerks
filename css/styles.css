@@ -170,3 +170,7 @@ border-radius:10px;
   background-image: url(../images/covidwerks.png);
   background-size: cover;
 }
+
+.formwrapper{
+  margin-bottom:30px;
+}
