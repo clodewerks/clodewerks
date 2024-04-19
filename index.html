@@ -175,7 +175,7 @@
 				  </ul>
 		</div>
 	<footer>
-		<p> &copy; 2024 Kyle Linneman</p>
+		<p> &copy; <span id="year"></span> Kyle Linneman</p>
 	</footer>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 	<script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
@@ -188,6 +188,10 @@
 	function runOnFormSubmit_sf3zec0bf4d19a1900a197d58f162127e300df10b75e932f0bb16a8656894d0b3196(th){
 		/*Before submit, if you want to trigger your event, "include your code here"*/
 	};
+
+	$(document).ready(function(){
+		$('#year').text(new Date().getFullYear());
+	});
 </script>
 
 <style>.quick_form_5_css * { -webkit-box-sizing: border-box !important; -moz-box-sizing: border-box !important; box-sizing: border-box !important; overflow-wrap: break-word }@media only screen and (max-width: 600px) {.quick_form_5_css[name="SIGNUP_BODY"] { width: 100% !important; min-width: 100% !important; margin: 0px auto !important; padding: 0px !important } .SIGNUP_FLD { width: 90% !important; margin: 10px 5% !important; padding: 0px !important } .SIGNUP_FLD input { margin: 0 !important } }</style>
