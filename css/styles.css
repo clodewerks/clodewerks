@@ -58,7 +58,7 @@ cursor:pointer;
 }
 /*Structure*/
 .jumbotron{
-  background:url(../images/BG.JPG) no-repeat center center #000;
+  background:url(../images/BG.jpg) no-repeat center center #000;
   background-size: contain;
 min-height:100vh;
 margin-bottom:0px;
