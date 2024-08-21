@@ -171,6 +171,11 @@ border-radius:10px;
   background-size: cover;
 }
 
+#Numberwerks{
+  background-image: url(../images/NumberwerksCoverDigital.png);
+  background-size: cover;
+}
+
 .formwrapper{
   margin-bottom:30px;
 }
