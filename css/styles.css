@@ -176,6 +176,46 @@ border-radius:10px;
   background-size: cover;
 }
 
+#WaffleTaco{
+  background-image: url(../images/waffletaco.jpg);
+  background-size: cover;
+}
+
+#ALaCart{
+  background-image: url(../images/alacart.jpg);
+  background-size: cover;
+}
+
+#Raw{
+  background-image: url(../images/raw.jpg);
+  background-size: cover;
+}
+
+#WrekTango{
+  background-image: url(../images/wrektango.jpg);
+  background-size: cover;
+}
+
+#Ephemeral{
+  background-image: url(../images/ephemeral.jpg);
+  background-size: cover;
+}
+
+#SearchForLight{
+  background-image: url(../images/searchforlight.jpg);
+  background-size: cover;
+}
+
+#OlsenTwin{
+  background-image: url(../images/olsentwin.jpg);
+  background-size: cover;
+}
+
+#Stochastic{
+  background-image: url(../images/stochastic.jpg);
+  background-size: cover;
+}
+
 .formwrapper{
   margin-bottom:30px;
 }
