@@ -225,6 +225,11 @@ border-radius:10px;
   background-size: cover;
 }
 
+#Keylight{
+  background-image: url(../images/keylight.jpg);
+  background-size: cover;
+}
+
 .formwrapper{
   margin-bottom:30px;
 }
